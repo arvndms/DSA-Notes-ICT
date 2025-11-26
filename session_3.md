@@ -110,7 +110,7 @@ print(f"Hello {name} Welcome to {course}")
 ```
 
 ## Multiline Assignment
-[![Python Print Formatting](https://img.youtube.com/vi/qwwPc2bxkx8/0.jpg)](https://youtu.be/qwwPc2bxkx8)
+
 
 
 ## Line-breaking
@@ -118,4 +118,4 @@ print(f"Hello {name} Welcome to {course}")
 # Type Conversion and Casting
 
 # Operator Overloading
-[![Operator Overloading](https://img.youtube.com/vi/lal8F6H1bXc/0.jpg)](https://youtu.be/v=lal8F6H1bXc)
+
